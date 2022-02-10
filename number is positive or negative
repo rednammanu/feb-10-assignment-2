@@ -1,0 +1,6 @@
+od = float(input("enter the number"))
+if od > 0:
+    print("positive number")
+else:
+    print("negative number")
+    
